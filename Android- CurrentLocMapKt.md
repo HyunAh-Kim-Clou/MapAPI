@@ -24,6 +24,6 @@
 
 ## Source Code
 
-![Android-%20CurrentLocMapKt%200574ff67573d4cc89ab263bdd9e617a1/__2021-01-27_124212.png](Android-%20CurrentLocMapKt%200574ff67573d4cc89ab263bdd9e617a1/__2021-01-27_124212.png)
+![Android-%20CurrentLocMapKt/__2021-01-27_124212.png](Android-%20CurrentLocMapKt/__2021-01-27_124212.png)
 
 [Source_CurrentLocMapKt.zip](Android-%20CurrentLocMapKt%200574ff67573d4cc89ab263bdd9e617a1/Source_CurrentLocMapKt.zip)
